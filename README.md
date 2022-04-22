@@ -10,7 +10,7 @@ This is a basic Hello World program. I created this to demonstrate the use of Vi
 
 - Visual Studio Code
 - Python 3.9.1 64-bit
-  \*Git / GitHub
+- Git / GitHub
 
 # Useful Websites
 
